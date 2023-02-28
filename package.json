@@ -1,5 +1,6 @@
 {
-  "name": "portfolio",
+  "name": "vigneshperumal-portfolio",
+  "homepage": "https://www.vigneshperumal.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
